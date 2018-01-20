@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.Serialization", "13.Seri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleTest", "ConsoleTest\ConsoleTest.csproj", "{C061F512-0BD1-4B46-87C1-FCA45E39EAE2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task", "Task\Task.csproj", "{D6C1A125-1AF5-44C4-BEB1-E9F49BB81460}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,10 +21,6 @@ Global
 		{C061F512-0BD1-4B46-87C1-FCA45E39EAE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C061F512-0BD1-4B46-87C1-FCA45E39EAE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C061F512-0BD1-4B46-87C1-FCA45E39EAE2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D6C1A125-1AF5-44C4-BEB1-E9F49BB81460}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D6C1A125-1AF5-44C4-BEB1-E9F49BB81460}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D6C1A125-1AF5-44C4-BEB1-E9F49BB81460}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D6C1A125-1AF5-44C4-BEB1-E9F49BB81460}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
